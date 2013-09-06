@@ -3,3 +3,17 @@
 = Introduction =
 
 Please don't sue me for trying to fix a broken tool
+
+Project was originally released by neil.fraser https://code.google.com/p/google-site-spider/
+https://chrome.google.com/webstore/detail/site-spider/ddlodfbcplakmddhdlffebcggbbighda?hl=en
+
+This is a fork of that project. Slightly different output format, and updated to the new manifest version.
+
+New features include: 
+The ability to pause the spider. 
+The ability to stop the spider from the results page.
+
+Major bug fix:
+It works in Chrome again.
+
+
